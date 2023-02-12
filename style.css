@@ -1,0 +1,33 @@
+#container {
+    padding: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text {
+    font-size: medium;
+    font-weight: lighter;
+}
+
+a {
+    text-decoration: none;
+}
+
+.flex-wrapper {
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-evenly;
+}
+
+.box1 {
+    background-color: aqua;
+    color: aqua;
+    width: 250px;
+    height: 250px;
+}
+
+.box2 {
+    background-color: rebeccapurple;
+    color: rebeccapurple;
+    width: 250px;
+    height: 250px;
+}
